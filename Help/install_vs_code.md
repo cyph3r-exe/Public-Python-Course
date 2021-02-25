@@ -19,7 +19,7 @@ It's the most important thing, to have an IDE for your coding projects.
 > For our course, we will be using, VS Code.
 > Go their [website](https://code.visualstudio.com/) and clock on the big 
 Blue Download Button
- ![DownloadPic](https://media.discordapp.net/attachments/809838525377413161/814570151822229514/unknown.png?width=858&height=402)
+ ![DownloadPic](https://media.discordapp.net/attachments/809838525377413161/814575028594802738/unknown.png)
 
 > The download will start automatically, all you have to do is run the setup program ans follow the instructions on the screen.
 
